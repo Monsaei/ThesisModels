@@ -1,0 +1,18 @@
+names:
+- Bicycle
+- Bus
+- Car
+- Jeep
+- Motorcycle
+- Tricycle
+- Truck
+nc: 7
+roboflow:
+  license: CC BY 4.0
+  project: vehicle-detection-ph-nt1ns
+  url: https://universe.roboflow.com/for-thesis-46cfa/vehicle-detection-ph-nt1ns/dataset/3
+  version: 3
+  workspace: for-thesis-46cfa
+test: D:\Documents\Cos\Fourth Year\Second Semester\Final Thesis\model51524\Vehicle-Detection-PH-3\test
+train: D:\Documents\Cos\Fourth Year\Second Semester\Final Thesis\model51524\Vehicle-Detection-PH-3\train
+val: D:\Documents\Cos\Fourth Year\Second Semester\Final Thesis\model51524\Vehicle-Detection-PH-3\valid

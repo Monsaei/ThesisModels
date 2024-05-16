@@ -1,0 +1,13 @@
+train: /dataset/train
+val: /dataset/valid
+test: /dataset/test
+
+nc: 8
+names: ['Bicycle', 'Bus', 'Car', 'Jeepney', 'Motorcycle', 'Tricycle', 'Truck', 'Van']
+
+roboflow:
+  workspace: vehicle-detection-and-data-generation
+  project: ph-vehicles-2
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/vehicle-detection-and-data-generation/ph-vehicles-2/dataset/1
